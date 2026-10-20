@@ -1,0 +1,11 @@
+[
+  {
+    "id": "472f6c49-d461-4b42-8085-a6af84b2a19d",
+    "name": "Consulta",
+    "description": "Consulta general",
+    "duration": 30,
+    "price": 30000,
+    "category": "salud",
+    "available": true
+  }
+]
